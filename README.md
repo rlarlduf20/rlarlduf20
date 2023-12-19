@@ -1,6 +1,5 @@
-# 김기열 (Front-end Developer)
+### Develop Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlarlduf20)](https://github.com/rlarlduf10/github-readme-stats)
-
-2. 학습중인 언어 - <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
